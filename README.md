@@ -1,7 +1,7 @@
 # house-price-prediction
 Predicting house prices in King County using Python, EDA, and Machine Learning (Linear Regression &amp; Random Forest)
 
-#House Price Prediction using Python & Machine Learning
+# House Price Prediction using Python & Machine Learning
 
 ## Overview  
 This project predicts **house prices in King County, USA (2014–2015)** using data analysis and machine learning.  
